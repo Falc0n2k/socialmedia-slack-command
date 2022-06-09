@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-<h1 align="center">`/socialmedia` Command for Slack</h1>
+<h1 align="center">/socialmedia Command for Slack</h1>
 <p align="center">A customizable slash command for Slack Enterprise workspaces</p>
 </div>
 
@@ -23,7 +23,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot at Jun 05 20-58-35](https://user-images.githubusercontent.com/3246415/172081290-616ea0fc-635e-48bf-a955-8b76bb14c110.png)
+This is a useful script that can provide slash command functionality in a Slack channel. It was originally written to provide functionality in a Slack Enterprise environment, but it can be modified to a single Slack team instance as well as post back just about any kind of response when typing `/yourcommand`.
 
 ### Dependencies
 
@@ -43,5 +43,5 @@ For the code to work, you'll need to set up a slash command in your Slack admin 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* djshadowxm82 - co-author
+* [djshadowxm82](https://github.com/djshadowxm82) - co-author
 
