@@ -14,7 +14,7 @@
 <br/>
 
 <h1 align="center">/socialmedia Command for Slack</h1>
-<p align="center">A customizable slash command for Slack Enterprise workspaces</p>
+<p align="center">A customizable slash command for Slack workspaces</p>
 </div>
 
 <br/>
