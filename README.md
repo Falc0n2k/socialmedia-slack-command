@@ -34,7 +34,7 @@ This is a useful script that can provide slash command functionality in a Slack 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Then install this script (`slackintegrator.php`) script into the same directory as the cloned maknz package.
+Install the `slackintegrator.php` script into the same directory as the cloned maknz package.
 
 ### Next Steps
 
