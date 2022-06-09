@@ -1,7 +1,6 @@
 <div id="top"></div>
 <div align="center">
 
-<a href="https://github.com/Falc0n2k/socialmedia-slack-command/releases"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/falc0n2k/socialmedia-slack-command?style=for-the-badge"></a>
 <a href="#"><img alt="Project status" src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge"></a>
 <a href="https://github.com/Falc0n2k/socialmedia-slack-command/blob/main/LICENSE.txt"><img alt="GitHub" src="https://img.shields.io/github/license/falc0n2k/socialmedia-slack-command?style=for-the-badge"></a>
 
@@ -14,7 +13,7 @@
 <br/>
 <br/>
 
-<h1 align="center"># `/socialmedia` Command for Slack</h1>
+<h1 align="center">`/socialmedia` Command for Slack</h1>
 <p align="center">A customizable slash command for Slack Enterprise workspaces</p>
 </div>
 
